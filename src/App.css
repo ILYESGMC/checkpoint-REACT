@@ -12,7 +12,8 @@ body{
 }
 
 .img{
- border-radius: 25px;
+ border: solid;
+  border-radius: 25px;
   margin-left: 350px;
   margin-top: 90px;
 }
